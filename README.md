@@ -1,29 +1,21 @@
-<h1 align="center">🚀 Matheus Godoi</h1>
+<h1 align="center">👋 Olá, me chamo Matheus Godoi</h1>
 
 <p align="center">
-  <b>Desenvolvedor Fullstack</b> • Graduando em Engenharia de Software  
-  <br>
-  Transformando ideias em sistemas inteligentes e escaláveis.
+  <b>Desenvolvedor Fullstack | Graduando Engenharia de Software</b><br>
+  Apaixonado por tecnologia, desenvolvimento de sistemas e automação de processos.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 Sobre mim
 
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusgodoii&show_icons=true&theme=tokyonight&hide_border=true" 
-  />
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgodoii&layout=compact&theme=tokyonight&hide_border=true" 
-  />
-</p>
+- 🎓 Graduando em **Engenharia de Software** pela Unifio   
+- 🔍 Sempre estudando e me atualizando sobre novas tecnologias  
+- 💡 Apaixonado por criar soluções que impactam na vida das pessoas
 
 ---
 
-## 🧠 Tecnologias
+## 🔧 Tecnologias que domino
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,docker,react" />
@@ -31,12 +23,19 @@
 
 ---
 
-## 🐍 Contribuições em Movimento
+## 🌐 Contato:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusgodoii/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
+  <a href="mailto:matheus77go@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://www.instagram.com/matheusgodoii/"><img src="https://skillicons.dev/icons?i=instagram"></a>
+</p>
+
+---
 
 <p align="center">
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
+    <source media="(prefers-color-scheme: dark)" 
       srcset="https://raw.githubusercontent.com/matheusgodoii/matheusgodoii/output/github-contribution-grid-snake-dark.svg">
     <img 
       src="https://raw.githubusercontent.com/matheusgodoii/matheusgodoii/output/github-contribution-grid-snake.svg">
@@ -45,18 +44,3 @@
 
 ---
 
-## 🌎 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheusgodoii/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:matheus77go@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/matheusgodoii/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48">
-  </a>
-</p>
