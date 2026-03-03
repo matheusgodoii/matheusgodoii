@@ -32,3 +32,7 @@
 </p>
 
 ---
+
+![Snake animation](https://github.com/matheusgodoii/matheusgodoii/blob/output/github-contribution-grid-snake.svg)
+
+---
