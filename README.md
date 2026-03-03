@@ -33,6 +33,8 @@
 
 ---
 
+## 🐍 Contribuições em Movimento
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
