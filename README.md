@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, me chamo Matheus Godoi</h1>
 
-<!--
-**matheusgodoii/matheusgodoii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Desenvolvedor Fullstack | Graduando Engenharia de Software</b><br>
+  Apaixonado por tecnologia, desenvolvimento de sistemas e automação de processos.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+- 🎓 Graduando em **Engenharia de Software** pela Unifio   
+- 🛠️ Desenvolvedor Fullstack com **React, MySQL, PHP, Laravel** 
+- 🔍 Sempre estudando e me atualizando sobre novas tecnologias  
+- 💡 Apaixonado por criar soluções que impactam na vida das pessoas
+
+---
+
+## 🔧 Tecnologias que domino
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,postgres,git,docker,react" />
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusgodoii/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
+  <a href="mailto:matheus77go@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://www.instagram.com/matheusgodoii/"><img src="https://skillicons.dev/icons?i=instagram"></a>
+</p>
+
+---
