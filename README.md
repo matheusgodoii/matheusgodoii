@@ -10,7 +10,6 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Graduando em **Engenharia de Software** pela Unifio   
-- 🛠️ Desenvolvedor Fullstack com **React, MySQL, PHP, Laravel** 
 - 🔍 Sempre estudando e me atualizando sobre novas tecnologias  
 - 💡 Apaixonado por criar soluções que impactam na vida das pessoas
 
@@ -19,12 +18,12 @@
 ## 🔧 Tecnologias que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,postgres,git,docker,react" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,docker,react" />
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contato:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusgodoii/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
