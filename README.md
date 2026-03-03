@@ -33,6 +33,8 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/matheusgodoii/matheusgodoii/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matheusgodoii/matheusgodoii/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
