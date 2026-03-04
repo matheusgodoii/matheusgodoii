@@ -18,7 +18,7 @@
 ## 🔧 Tecnologias que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,docker,react" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,postgres,git,docker,react" />
 </p>
 
 ---
