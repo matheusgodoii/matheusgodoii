@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedor Fullstack | Graduando Engenharia de Software</b><br>
-  Apaixonado por tecnologia, desenvolvimento de sistemas e automação de processos
+  Apaixonado por tecnologia, desenvolvimento de sistemas e automação de processos.
 </p>
 
 ---
